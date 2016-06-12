@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-It is a tic-tac-toe game app.
+This is a web implementation of tic tac toe game (also known as Noughts and crosses or Xs and Os). It is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 
